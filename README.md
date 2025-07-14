@@ -16,3 +16,33 @@ This assignment is structured to help you understand the dataset in depth, visua
 
 
 ○ Categorical: gender, subscription_type, region, device, payment_method, favorite_genre
+
+
+🔍 Tasks Completed
+
+
+1.Data Overview
+
+Displayed top rows
+Checked for null values and unique categories
+
+
+2.Univariate Analysis
+
+Visualized distributions of numerical and categorical features
+
+
+3.Bivariate Analysis
+
+Compared watch hours and fees across subscription types, regions, and devices
+Analyzed churn across demographic and usage factors
+
+
+4.Correlation Analysis
+
+Heatmap to identify relationships between numerical features and churn
+
+
+5.Insights & Recommendations
+
+Highlighted key findings related to customer churn, popular genres, payment methods, etc.
