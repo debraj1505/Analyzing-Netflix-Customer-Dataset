@@ -46,3 +46,21 @@ Heatmap to identify relationships between numerical features and churn
 5.Insights & Recommendations
 
 Highlighted key findings related to customer churn, popular genres, payment methods, etc.
+
+📌 Dataset Source
+
+
+https://www.kaggle.com/datasets/abdulwadood11220/netflix-customer-churn-dataset
+
+
+🛠️ Tools Used
+
+
+
+1.Python
+
+
+2.Pandas, Seaborn, Matplotlib
+
+
+3.Jupyter Notebook
